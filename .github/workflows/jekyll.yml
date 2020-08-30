@@ -20,6 +20,4 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
         
         docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest amazon/aws-cli --version
-        
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site /bin/bash -c "ls -ltr /srv/jekyll/_site"
