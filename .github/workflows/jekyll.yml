@@ -21,4 +21,4 @@ jobs:
         
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        amazon/aws-cli --version
+        amazon/aws-cli /bin/bash -c "ls -ltr /srv/jekyll/_site"
