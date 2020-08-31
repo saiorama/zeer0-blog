@@ -28,4 +28,4 @@ jobs:
         --env AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }} \
         --env AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }} \
         --env AWS_DEFAULT_REGION=${{ secrets.AWS_DEFAULT_REGION }} \
-        amazon/aws-cli s3 sync /srv/jekyll/_site/ s3://www.zeer0.com/dockerized-blog/
+        amazon/aws-cli s3 sync /srv/jekyll/_site/ s3://www.zeer0.com/b/
