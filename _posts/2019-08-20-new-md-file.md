@@ -1,13 +1,12 @@
+﻿
 ---
-title: New MD Fyle
-author: Shy Ram
-date: '2019-07-31'
-
+layout: post
+title: New markdown file
+date:  2019-08-20 18:18:25 +0530
+author: Sai Ramachandran
 ---
+This blog post is going to be quite technical but the subject it deals with - rich snippets - is very important so you would do well to not let your eyes glaze over. Rich snippets can really boost your search performance and bring you lots of eyeballs which would otherwise go to your competitors.
 
-<p>This blog post is going to be quite technical but the subject it deals with - rich snippets - is very important so you would do well to not let your eyes glaze over. Rich snippets can really boost your search performance and bring you lots of eyeballs which would otherwise go to your competitors.</p>
-<h1 id="what-is-a-rich-snippet">What is a Rich Snippet?</h1>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+# What is a Rich Snippet?
 
+> Written with [StackEdit](https://stackedit.io/).
