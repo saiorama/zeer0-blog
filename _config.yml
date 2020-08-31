@@ -30,7 +30,7 @@ github_username: saiorama
 theme: minima
 plugins:
   - jekyll-feed
-permalink: /:title
+permalink: /:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
