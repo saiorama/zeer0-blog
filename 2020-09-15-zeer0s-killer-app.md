@@ -1,3 +1,10 @@
+---
+layout: post
+title: Zeer0's Killer App
+date:  2020-09-15 09:03:45 +0530
+author: Sai Ramachandran
+---
+
 ![Don't be blind](https://images.pexels.com/photos/4724068/pexels-photo-4724068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 One of the use cases we are working on at Zeer0 is to give users the ability to get unlimited, real email IDs on their own domain without a lengthy account creation process. Think of it as a Mailinator for your own domain. 
 
