@@ -6,13 +6,14 @@ author: Sai Ramachandran
 ---
 
 ![Don't be blind](https://images.pexels.com/photos/4724068/pexels-photo-4724068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
 One of the use cases we are working on at Zeer0 is to give users the ability to get unlimited, real email IDs on their own domain without a lengthy account creation process. Think of it as a Mailinator for your own domain. 
 
-By real email ids, I of course mean whatever email id you want @ whatever domain you own, not the GMail trick of letting you append a *+<some_string>* to your gmail account. 
+By real email ids, I, of course, mean whatever email id you want @ whatever domain you own, not the GMail trick of letting you append a *+some_string* to your gmail account. 
 
 # Why do we need this feature?
 
-Email is a fantastic tool. It is asynchronous. It literally *just works* across any and every email provider. I don't think that till date, any online product has been able to maintain its decentralized form to the extent email has. 
+Email is a fantastic tool. It is asynchronous. It mostly *just works* across any and every email provider. I don't think that till date, any online product has been able to maintain its decentralized form to the extent email has. 
 
 In the physical world, even ordinary widgets like a wall socket have different specs in different countries. In the digital realm, CDs came closest. Anyone could press a CD and so long as one had a CD player to read the CD, exchanging information was possible.
 
