@@ -1,3 +1,10 @@
+---
+layout: post
+title: Extracting Variables from Email Templates
+date:  2020-09-30 14:49:15 +0530
+author: Sai Ramachandran
+---
+
 # Extracting Variables from Email Templates
 
 > ***tl; dr; -** Use `{ {[\s]*[#/]?[a-zA-Z][a-zA-Z0-9\.]*[\s]*[a-zA-Z0-9\.]*[\s]*}}` to
